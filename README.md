@@ -15,4 +15,4 @@ As a result, any component can communicate with any other component, regardless 
 Each Banyan component connects to a common Banyan backplane that distributes published messages to all message
 subscribers.
 
-[Documentation]((http://htmlpreview.github.io/?https://github.com/MrYsLab/javabanyan/blob/master/documentation/index.html)
+[Documentation](http://htmlpreview.github.io/?https://github.com/MrYsLab/javabanyan/blob/master/documentation/index.html)
